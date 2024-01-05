@@ -2,4 +2,4 @@
 
 ### Hi! My name is Arnav Jain and this is my portfolio.
 
-### Go to to view my website
+### Go to https://arnavj1903.github.io/portfolio/ to view my website.
